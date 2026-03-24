@@ -57,6 +57,9 @@ The dataset contains information about individuals' lifestyle and health factors
 - Lifestyle factors significantly influence health outcomes  
 
 ---
+## 💡 Author
+LaxmiPriya TM  
+B.Tech CSE (AI & ML)
 
 ## 📈 Visualizations
 The project includes:
