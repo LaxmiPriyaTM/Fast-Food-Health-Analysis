@@ -57,9 +57,6 @@ The dataset contains information about individuals' lifestyle and health factors
 - Lifestyle factors significantly influence health outcomes  
 
 ---
-## 💡 Author
-LaxmiPriya TM  
-B.Tech CSE (AI & ML)
 
 ## 📈 Visualizations
 The project includes:
@@ -73,9 +70,9 @@ This analysis shows that lifestyle choices such as diet, exercise, and sleep pla
 
 ---
 
-## 🔮 Future Scope
-- Apply Machine Learning models to predict BMI or health score  
-- Use larger and real-world datasets  
-- Build an interactive dashboard using Streamlit or Power BI  
+## 💡 Author
+LaxmiPriya TM  
+B.Tech CSE (AI & ML)
 
----
+
+
