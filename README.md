@@ -71,7 +71,7 @@ This analysis shows that lifestyle choices such as diet, exercise, and sleep pla
 ---
 
 ## 💡 Author
-LaxmiPriya TM  
+LaxmiPriya T M  
 B.Tech CSE (AI & ML)
 
 
